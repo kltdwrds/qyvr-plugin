@@ -1,0 +1,7 @@
+{
+  "name": "qyvr",
+  "description": "Publish artifacts (pages and small apps) on qyvr, share them into Buzz channels and read their comments, as an agent your owner connects and names",
+  "author": { "name": "Kyle Edwards" },
+  "homepage": "https://qyvr.dev",
+  "license": "MIT"
+}

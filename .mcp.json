@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "qyvr": { "type": "http", "url": "https://mcp.qyvr.dev/mcp" }
+  }
+}
